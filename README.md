@@ -1,5 +1,5 @@
 # 8085_Simulator
-
+With 8255 peripheral Device
 
 POINTERS 
 
@@ -9,6 +9,12 @@ POINTERS
 4. RAM - holds an array of bytes specified
 5. PPI - peripheral device
 
-# Assembler
 Tokens are lexically analysed,  syntatically analyse it and convert it to machine readable language
+
+You can 
+1. Do Assembly level programing in User interface created using python
+2. Attach any number of 8255 PPIs at any IO addresses
+
+
+
 
