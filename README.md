@@ -9,7 +9,7 @@ POINTERS
 4. RAM - holds an array of bytes specified
 5. PPI - peripheral device
 
-Tokens are lexically analysed,  syntatically analyse it and convert it to machine readable language
+Tokens are lexically and syntatically analyzed and converted to machine readable language
 
 You can 
 1. Do Assembly level programing in User interface created using python
